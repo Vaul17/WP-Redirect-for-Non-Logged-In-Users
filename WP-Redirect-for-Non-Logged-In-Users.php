@@ -3,7 +3,7 @@
 Plugin Name: Dashboard Redirect for Non-Logged-In Users
 Description: Redirects non-logged-in users to the WordPress login page when they attempt to access the /dashboard/ page.
 Version: 1.2
-Author: TC
+Author: Vaul7
 License: GPL2
 */
 
